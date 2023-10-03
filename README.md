@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently doing some working on FutureCX
+- 🔭 I’m currently working on FutureCX dev team as a intern developper
 
-This was a change
+Hi 
+evryone
+
+This was added
+

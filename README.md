@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on FutureCX
+- 🔭 I’m currently working on FutureCX dev team
 
 Hi 
 evryone

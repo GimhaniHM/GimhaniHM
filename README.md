@@ -46,7 +46,3 @@ Served as an **Associate Software Engineer** at Future CX Lanka, where I designe
 
 ---
 
-## 📊 GitHub Stats (optional)
-
-```markdown
-![Gimhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GimhaniHM&show_icons=true&theme=dark)

@@ -32,13 +32,6 @@ Served as an **Associate Software Engineer** at Future CX Lanka, where I designe
 
 ---
 
-## 🎯 Fun Facts
-- I hate following recipes—I love experimenting with whatever ingredients I have  
-- Music and coffee are my go-to companions  
-- A good movie helps me relax after a long day of coding
-
----
-
 ## 📫 Get in Touch
 - **Email:** gimhaniharshika99@gmail.com  
 - **LinkedIn:** [linkedin.com/in/gimhani-harshika-02b90b229](https://www.linkedin.com/in/gimhani-harshika-02b90b229)  

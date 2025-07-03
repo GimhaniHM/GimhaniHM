@@ -18,7 +18,7 @@ Served as an **Associate Software Engineer** at Future CX Lanka, where I designe
 ---
 
 ## 💡 Skills
-- **Languages:**Java · Springboot · Golang · Rust · Node.js · Python · React.js
+- **Languages:** Java · Springboot · Golang · Rust · Node.js · Python · React.js
 - **Frameworks:** FastAPI · Substrate · Hyperledger Fabric  
 - **Databases:** PostgreSQL · MongoDB · Cassandra  
 - **Systems:** Microservices · Docker · CI/CD · RESTful APIs · Concurrency

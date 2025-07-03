@@ -5,7 +5,7 @@
 ---
 
 ## 🔭 Previously
-Served as an **Associate Software Engineer** at Future CX Lanka, where I designed and implemented scalable microservices in Go and Rust, built RESTful APIs, and deployed containerized solutions using Docker and CI/CD pipelines.
+Served as an **Associate Software Engineer** at Future CX Lanka, where I designed and implemented scalable microservices in Java, Springboot Go, and Rust, built RESTful APIs, and deployed containerized solutions using Docker and CI/CD pipelines.
 
 ---
 
@@ -18,7 +18,7 @@ Served as an **Associate Software Engineer** at Future CX Lanka, where I designe
 ---
 
 ## 💡 Skills
-- **Languages:** Golang · Rust · Node.js · Python  
+- **Languages:**Java · Springboot · Golang · Rust · Node.js · Python · React.js
 - **Frameworks:** FastAPI · Substrate · Hyperledger Fabric  
 - **Databases:** PostgreSQL · MongoDB · Cassandra  
 - **Systems:** Microservices · Docker · CI/CD · RESTful APIs · Concurrency
